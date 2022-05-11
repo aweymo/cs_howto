@@ -72,6 +72,8 @@ page_sections:
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
   navigation:
+  - link: https://aweymo.github.io/hnv_2/
+    link_text: Network Visualization
   - link: https://aweymo.github.io/CS.2/findings.html
     link_text: Text Mining
   - link: https://aweymo.github.io/mappinglanguage
