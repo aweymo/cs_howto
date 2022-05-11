@@ -68,5 +68,14 @@ page_sections:
     to recordings, <a href="https://aweymo.github.io/CS_OH.3/transcripts.html" title="Transcripts">engage
     with text</a> and even <a href="https://aweymo.github.io/CS_OH.3/subjects.html"
     title="Subject">organize recordings visually</a> by subject matter.
+- template: navigation-header-w-button
+  block: header-2
+  logo: uploads/uploads/2022/ill030_logo.png
+  navigation:
+  - link: https://aweymo.github.io/mappinglanguage
+    link_text: Home
+  cta:
+    url: ''
+    button_text: ''
 
 ---
