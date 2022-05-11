@@ -72,6 +72,8 @@ page_sections:
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
   navigation:
+  - link: https://aweymo.github.io/CS_OH.3/subjects.html
+    link_text: Subjects
   - link: https://aweymo.github.io/mappinglanguage
     link_text: Home
   - link: https://aweymo.github.io/cs_howto
