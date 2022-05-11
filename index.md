@@ -14,7 +14,9 @@ page_sections:
     a portion or complete transcript of the material within a single browser window.
     Each element within the visualization contains links to the digital object, which
     can be analyzed in greater detail or listened to in full, in the case of the oral
-    history recordings.
+    history recordings.<br><br><br><br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028"
+    title="Meeting Program"><strong>· </strong>Meeting Program for the Illema Study
+    Club, 1920-1921</a>
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
