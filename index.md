@@ -25,5 +25,14 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: uploads/uploads/2022/arbeideren_041892_b.png
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 
 ---
