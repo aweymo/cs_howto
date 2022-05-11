@@ -3,6 +3,15 @@ layout: blocks
 title: How To Use This Guide
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: uploads/uploads/2022/ill030_logo.png
+  navigation:
+  - link: https://aweymo.github.io/mappinglanguage
+    link_text: Home
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: uploads/uploads/2022/ill030_b.png
