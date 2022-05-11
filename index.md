@@ -72,8 +72,6 @@ page_sections:
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
   navigation:
-  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
-    link_text: Transcripts
   - link: https://aweymo.github.io/mappinglanguage
     link_text: Home
   - link: https://aweymo.github.io/cs_howto
@@ -84,6 +82,8 @@ page_sections:
     link_text: Map
   - link: https://aweymo.github.io/CS.2/data.html
     link_text: Data
+  - link: https://aweymo.github.io/CS_OH.3/transcripts.html
+    link_text: Transcripts
   cta:
     url: ''
     button_text: ''
