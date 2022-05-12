@@ -30,10 +30,11 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: uploads/uploads/2022/overview_80.gif
-  content: <br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028"
-    title="Meeting Program"><strong>· </strong>Meeting Program for the Illema Study
-    Club, 1920-1921</a>
+  background_image: uploads/uploads/2022/mapping-language-2022-capstone-project.png
+  content: <br>This project is both a historical research project and a pedagogical
+    tool that can be used by researchers to create new connections between these materials.
+    The exhibit was designed to provide researchers with multiple <strong>"ways in"</strong>
+    to this material, depending on their learning preferences.
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
