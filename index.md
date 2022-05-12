@@ -30,7 +30,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: uploads/uploads/2022/ill030_b.png
+  background_image: uploads/uploads/2022/overview_80.gif
   content: <br><a href="https://aweymo.github.io/CS.2/item.html?id=maplanguage028"
     title="Meeting Program"><strong>· </strong>Meeting Program for the Illema Study
     Club, 1920-1921</a>
