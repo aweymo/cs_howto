@@ -106,6 +106,20 @@ page_sections:
   headline: 'Utilizing the Subjects field, '
   content: "<p>industries and communities can be identified across multiple recordings.
     Note that you need to push Reset in order to clear subjects for new searches.</p>"
+- template: full-width-media-element
+  block: media-1
+  slug: subjects
+  image: uploads/uploads/2022/subjects.gif
+  caption: ''
+- template: detail-content
+  block: text-1
+  headline: Within Text Mining,
+  content: "<p>you can engage with how specific community groups were represented
+    in media and contrast that linguistic change over time. The visualization that
+    you see are the number of times particular words are repeated within the corpus,
+    demonstrated by the size of each word's bubble. Hover over the bubble for the
+    exact number and drag the bubbles around if you have trouble reading anything
+    depending on how the visualization loads.</p>"
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
