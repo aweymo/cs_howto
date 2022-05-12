@@ -64,6 +64,12 @@ page_sections:
     engage with the community, industry and location tags to filter items and search
     for specific terms.
   slug: ''
+- template: detail-content
+  block: text-1
+  content: "<p>Within <strong>Browse</strong>, you can sort items chronologically
+    or by title. You can engage with the community, industry and location tags to
+    filter items and search for specific terms.</p>"
+  headline: Within Browse
 - template: content-feature
   block: feature-1
   media_alignment: Left
