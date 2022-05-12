@@ -35,7 +35,7 @@ page_sections:
     tool that can be used by researchers to create new connections between these materials.
     The exhibit was designed to provide researchers with multiple <strong>"ways in"</strong>
     to this material, depending on their learning preferences.<br><br>Researchers
-    can comprehend the material <strong>geospatially</strong> through the <strong>Map</strong>,
+    can understand material <strong>geospatially</strong> through the <strong>Map</strong>,
     view <strong>chronologically</strong> and by <strong>subject</strong> tag through
     <strong>Browse</strong>, read every document <strong>visually</strong> or <strong>aurally</strong>
     through text to speech software on the <strong>Data</strong> page. Researchers
