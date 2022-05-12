@@ -34,7 +34,20 @@ page_sections:
   content: <br>This project is both a historical research project and a pedagogical
     tool that can be used by researchers to create new connections between these materials.
     The exhibit was designed to provide researchers with multiple <strong>"ways in"</strong>
-    to this material, depending on their learning preferences.
+    to this material, depending on their learning preferences.<br><br>Researchers
+    can comprehend the material <strong>geospatially</strong> through the <strong>Map</strong>,
+    view <strong>chronologically</strong> and by <strong>subject</strong> tag through
+    <strong>Browse</strong>, read every document <strong>visually</strong> or <strong>aurally</strong>
+    through text to speech software on the <strong>Data</strong> page. Researchers
+    can engage with oral history recordings as <strong>text</strong> or <strong>original
+    audio recordings</strong> through <strong>Transcripts</strong> or <strong>visually</strong>,
+    through the <strong>Subjects</strong> function.<br><br>Researchers can understand
+    a large amount of text information very quickly through <strong>moving images</strong>
+    in <strong>Text Mining</strong>, and gauge linguistic change over time. Finally,
+    researchers can engage with the material <strong>interactively</strong> through
+    the <strong>Network Visualization</strong>, where the entire collection is represented
+    in a single frame and communities and associated industries can be highlighted
+    and filtered to create future research.
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
