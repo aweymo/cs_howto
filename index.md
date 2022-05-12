@@ -125,6 +125,19 @@ page_sections:
   slug: tm
   image: uploads/uploads/2022/text-mining.gif
   caption: ''
+- template: detail-content
+  block: text-1
+  headline: Utilizing the Network Visualization,
+  content: "<p>you can assess relationships between industries, community groups and
+    locations in a single window. Full text of materials are included along with URLs
+    for the item's full record, although you will need to copy paste into your browser
+    as hyperlinking is unavailable for this tool. You may also search for titles within
+    the attribute pane.</p>"
+- template: full-width-media-element
+  block: media-1
+  slug: nv
+  image: uploads/uploads/2022/network-visualization.gif
+  caption: ''
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
