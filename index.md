@@ -68,6 +68,11 @@ page_sections:
   image: uploads/uploads/2022/browse.gif
   caption: ''
   slug: ''
+- template: detail-content
+  block: text-1
+  headline: Using the Map,
+  content: "<p>you can understand the geospatial relationship between documents, quickly
+    view the essential metadata and visit full records of the documents.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
