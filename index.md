@@ -91,6 +91,11 @@ page_sections:
   slug: Data
   image: uploads/uploads/2022/data.gif
   caption: ''
+- template: detail-content
+  block: text-1
+  headline: Using the Transcripts
+  content: "<p>of Oral History Recordings, you can scan text of a recording and jump
+    directly to points of interest and engage audio recordings via timestamp.</p>"
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
