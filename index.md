@@ -101,6 +101,11 @@ page_sections:
   slug: transcripts
   image: uploads/uploads/2022/transcripts.gif
   caption: ''
+- template: detail-content
+  block: text-1
+  headline: 'Utilizing the Subjects field, '
+  content: "<p>industries and communities can be identified across multiple recordings.
+    Note that you need to push Reset in order to clear subjects for new searches.</p>"
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
