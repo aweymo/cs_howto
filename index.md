@@ -67,23 +67,17 @@ page_sections:
   block: media-1
   image: uploads/uploads/2022/browse.gif
   caption: ''
-  slug: ''
+  slug: browse
 - template: detail-content
   block: text-1
   headline: Using the Map,
   content: "<p>you can understand the geospatial relationship between documents, quickly
     view the essential metadata and visit full records of the documents.</p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  media:
-    image: uploads/uploads/2022/browse.gif
-    alt_text: ''
-  headline: ''
-  slug: ht
-  content: Within <strong>Browse</strong>, you can sort items chronologically or by
-    title. You can engage with the community, industry and location tags to filter
-    items and search for specific terms.
+- template: full-width-media-element
+  block: media-1
+  slug: map
+  image: uploads/uploads/2022/map_2-01.gif
+  caption: ''
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
