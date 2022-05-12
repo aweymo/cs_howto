@@ -120,6 +120,11 @@ page_sections:
     demonstrated by the size of each word's bubble. Hover over the bubble for the
     exact number and drag the bubbles around if you have trouble reading anything
     depending on how the visualization loads.</p>"
+- template: full-width-media-element
+  block: media-1
+  slug: tm
+  image: uploads/uploads/2022/text-mining.gif
+  caption: ''
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
