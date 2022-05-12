@@ -78,6 +78,19 @@ page_sections:
   slug: map
   image: uploads/uploads/2022/map_2-01.gif
   caption: ''
+- template: detail-content
+  block: text-1
+  headline: Within Data,
+  content: <p>you can download the entire data set in Excel or CSV to pursue your
+    own research. Exploring the individual record pages, you can view the full metadata
+    for the item. PDF items can be read visually or using text to speech directly
+    from the item window or expanded and read using the "download PDF" button. Image
+    files can be expanded and zoomed in on with a light box functionality.</p>
+- template: full-width-media-element
+  block: media-1
+  slug: Data
+  image: uploads/uploads/2022/data.gif
+  caption: ''
 - template: navigation-header-w-button
   block: header-2
   logo: uploads/uploads/2022/ill030_logo.png
