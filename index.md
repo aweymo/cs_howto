@@ -31,7 +31,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: uploads/uploads/2022/mapping-language-2022-capstone-project.png
-  content: <br>This project is both a historical research project and a pedagogical
+  content: '<br>This project is both a historical research project and a pedagogical
     tool that can be used by researchers to create new connections between these materials.
     The exhibit was designed to provide researchers with multiple <strong>"ways in"</strong>
     to this material, depending on their learning preferences.<br><br>Researchers
@@ -47,7 +47,8 @@ page_sections:
     researchers can engage with the material <strong>interactively</strong> through
     the <strong>Network Visualization</strong>, where the entire collection is represented
     in a single frame and communities and associated industries can be highlighted
-    and filtered to create future research.
+    and filtered to create future research.<br><br>The following gifs will show you
+    the different ways that you can engage with this resource:'
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
