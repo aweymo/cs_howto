@@ -39,16 +39,17 @@ page_sections:
     view <strong>chronologically</strong> and by <strong>subject</strong> tag through
     <strong>Browse</strong>, read every document <strong>visually</strong> or <strong>aurally</strong>
     through text to speech software on the <strong>Data</strong> page. Researchers
-    can engage with oral history recordings as <strong>text</strong> or <strong>original
-    audio recordings</strong> through <strong>Transcripts</strong> or <strong>visually</strong>,
-    through the <strong>Subjects</strong> function.<br><br>Researchers can understand
+    can engage with oral history recordings as <strong>text</strong> or original <strong>audio</strong>
+    recordings through <strong>Transcripts</strong> or <strong>visually</strong>,
+    through the <strong>Subject</strong>s function.<br><br>Researchers can understand
     a large amount of text information very quickly through <strong>moving images</strong>
-    in <strong>Text Mining</strong>, and gauge linguistic change over time. Finally,
-    researchers can engage with the material <strong>interactively</strong> through
-    the <strong>Network Visualization</strong>, where the entire collection is represented
-    in a single frame and communities and associated industries can be highlighted
-    and filtered to create future research.<br><br>The following gifs will show you
-    the different ways that you can engage with this resource:'
+    in <strong>Text Mining</strong>, and gauge linguistic change <strong>over time</strong>.
+    Finally, researchers can engage with the material <strong>interactively</strong>
+    through the <strong>Network Visualization</strong>, where the entire collection
+    is represented in a single frame and communities and associated industries can
+    be<strong> highlighted</strong> and <strong>filtered</strong> to create future
+    research.<br><br>The following gifs will show you the different ways that you
+    can engage with this resource:'
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
