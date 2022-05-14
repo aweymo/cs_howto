@@ -60,13 +60,14 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: "<strong>Using the Map,</strong>"
-  content: you can understand the geospatial relationship between documents, quickly
-    view the essential metadata and visit full records of the documents.
-  slug: map2
+  media_alignment: Left
+  headline: "<strong>Within Browse,</strong>"
+  content: you can sort items chronologically or by title. You can engage with the
+    community, industry and location tags to filter items and search for specific
+    terms.
+  slug: br2
   media:
-    image: uploads/uploads/2022/map_2-02.gif
+    image: uploads/uploads/2022/browse.gif
     alt_text: ''
 - template: detail-content
   block: text-1
@@ -79,6 +80,16 @@ page_sections:
   image: uploads/uploads/2022/browse.gif
   caption: ''
   slug: browse
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Using the Map,</strong>"
+  content: you can understand the geospatial relationship between documents, quickly
+    view the essential metadata and visit full records of the documents.
+  slug: map2
+  media:
+    image: uploads/uploads/2022/map_2-02.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   headline: Using the Map,
