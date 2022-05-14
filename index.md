@@ -69,6 +69,29 @@ page_sections:
   media:
     image: uploads/uploads/2022/browse.gif
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Using the Map,</strong>"
+  content: you can understand the geospatial relationship between documents, quickly
+    view the essential metadata and visit full records of the documents.
+  slug: map2
+  media:
+    image: uploads/uploads/2022/map_2-02.gif
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Within Data,</strong>"
+  content: you can download the entire data set in Excel or CSV to pursue your own
+    research. Exploring the individual record pages, you can view the full metadata
+    for the item. PDF items can be read visually or using text to speech directly
+    from the item window or expanded and read using the "download PDF" button. Image
+    files can be expanded and zoomed in on with a light box functionality.
+  slug: data2
+  media:
+    image: uploads/uploads/2022/data.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
@@ -80,16 +103,6 @@ page_sections:
   image: uploads/uploads/2022/browse.gif
   caption: ''
   slug: browse
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>Using the Map,</strong>"
-  content: you can understand the geospatial relationship between documents, quickly
-    view the essential metadata and visit full records of the documents.
-  slug: map2
-  media:
-    image: uploads/uploads/2022/map_2-02.gif
-    alt_text: ''
 - template: detail-content
   block: text-1
   headline: Using the Map,
