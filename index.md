@@ -117,6 +117,11 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: uploads/uploads/2022/transcripts.gif
+  slug: tran1
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
