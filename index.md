@@ -87,7 +87,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: mp1
-  image: uploads/uploads/2022/map_2-02.gif
+  image: uploads/uploads/2022/map_2-03.gif
   caption: ''
 - template: content-feature
   block: feature-1
@@ -124,7 +124,7 @@ page_sections:
   caption: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Utilizing the Subjects field,</strong>"
   content: industries and communities can be identified across multiple recordings.
     Note that you need to push Reset in order to clear subjects for new searches.
