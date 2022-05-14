@@ -60,7 +60,7 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Within Browse,</strong>"
   content: you can sort items chronologically or by title. You can engage with the
     community, industry and location tags to filter items and search for specific
