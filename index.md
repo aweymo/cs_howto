@@ -114,15 +114,6 @@ page_sections:
   slug: sub2
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   headline: "<strong>Within Text Mining,</strong>"
   content: you can engage with how specific community groups were represented in media
