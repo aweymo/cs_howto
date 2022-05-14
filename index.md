@@ -123,7 +123,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Within Text Mining,</strong>"
   content: you can engage with how specific community groups were represented in media
     and contrast that linguistic change over time. The visualization that you see
