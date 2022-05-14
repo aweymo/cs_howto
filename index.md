@@ -77,7 +77,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: map
-  image: uploads/uploads/2022/map_2-01.gif
+  image: uploads/uploads/2022/map_2-02.gif
   caption: ''
 - template: detail-content
   block: text-1
