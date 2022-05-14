@@ -92,6 +92,16 @@ page_sections:
   media:
     image: uploads/uploads/2022/data.gif
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Using the Transcripts</strong>"
+  content: of Oral History Recordings, you can scan text of a recording and jump directly
+    to points of interest and engage audio recordings via timestamp.
+  slug: OH2
+  media:
+    image: uploads/uploads/2022/transcripts.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
