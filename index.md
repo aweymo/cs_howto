@@ -135,6 +135,19 @@ page_sections:
   media:
     image: uploads/uploads/2022/text-mining.gif
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Utilizing the Network Visualization,</strong>"
+  content: you can assess relationships between industries, community groups and locations
+    in a single window. Full text of materials are included along with URLs for the
+    item's full record, although you will need to copy paste into your browser as
+    hyperlinking is unavailable for this tool. You may also search for titles within
+    the attribute pane.
+  slug: nv2
+  media:
+    image: uploads/uploads/2022/network-visualization.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
