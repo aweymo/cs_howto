@@ -112,6 +112,29 @@ page_sections:
     image: uploads/uploads/2022/subjects.gif
     alt_text: ''
   slug: sub2
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Within Text Mining,</strong>"
+  content: you can engage with how specific community groups were represented in media
+    and contrast that linguistic change over time. The visualization that you see
+    are the number of times particular words are repeated within the corpus, demonstrated
+    by the size of each word's bubble. Hover over the bubble for the exact number
+    and drag the bubbles around if you have trouble reading anything depending on
+    how the visualization loads.
+  slug: tm2
+  media:
+    image: uploads/uploads/2022/text-mining.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
