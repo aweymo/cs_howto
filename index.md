@@ -67,8 +67,13 @@ page_sections:
     terms.
   slug: br2
   media:
-    image: uploads/uploads/2022/browse.gif
+    image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: uploads/uploads/2022/browse.gif
+  slug: br1
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
