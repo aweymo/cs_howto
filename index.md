@@ -82,8 +82,13 @@ page_sections:
     view the essential metadata and visit full records of the documents.
   slug: map2
   media:
-    image: uploads/uploads/2022/map_2-02.gif
+    image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
