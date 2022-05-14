@@ -171,8 +171,8 @@ page_sections:
     alt_text: ''
 - template: full-width-media-element
   block: media-1
-  slug: ''
-  image: ''
+  slug: nv1
+  image: uploads/uploads/2022/network-visualization.gif
   caption: ''
 - template: navigation-header-w-button
   block: header-2
