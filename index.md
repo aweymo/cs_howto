@@ -86,8 +86,8 @@ page_sections:
     alt_text: ''
 - template: full-width-media-element
   block: media-1
-  slug: ''
-  image: ''
+  slug: mp1
+  image: uploads/uploads/2022/map_2-02.gif
   caption: ''
 - template: content-feature
   block: feature-1
