@@ -100,8 +100,13 @@ page_sections:
     files can be expanded and zoomed in on with a light box functionality.
   slug: data2
   media:
-    image: uploads/uploads/2022/data.gif
+    image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: data1
+  image: uploads/uploads/2022/data.gif
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
