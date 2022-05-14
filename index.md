@@ -115,7 +115,7 @@ page_sections:
     to points of interest and engage audio recordings via timestamp.
   slug: OH2
   media:
-    image: uploads/uploads/2022/transcripts.gif
+    image: ''
     alt_text: ''
 - template: content-feature
   block: feature-1
