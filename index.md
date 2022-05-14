@@ -114,7 +114,7 @@ page_sections:
   slug: sub2
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Within Text Mining,</strong>"
   content: you can engage with how specific community groups were represented in media
     and contrast that linguistic change over time. The visualization that you see
@@ -128,7 +128,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Utilizing the Network Visualization,</strong>"
   content: you can assess relationships between industries, community groups and locations
     in a single window. Full text of materials are included along with URLs for the
