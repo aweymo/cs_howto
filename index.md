@@ -102,6 +102,16 @@ page_sections:
   media:
     image: uploads/uploads/2022/transcripts.gif
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Utilizing the Subjects field,</strong>"
+  content: industries and communities can be identified across multiple recordings.
+    Note that you need to push Reset in order to clear subjects for new searches.
+  media:
+    image: uploads/uploads/2022/subjects.gif
+    alt_text: ''
+  slug: sub2
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
