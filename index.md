@@ -58,6 +58,16 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Using the Map,</strong>"
+  content: you can understand the geospatial relationship between documents, quickly
+    view the essential metadata and visit full records of the documents.
+  slug: map2
+  media:
+    image: uploads/uploads/2022/map_2-02.gif
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: "<p>you can sort items chronologically or by title. You can engage with
