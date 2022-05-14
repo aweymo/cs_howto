@@ -91,7 +91,7 @@ page_sections:
   caption: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Within Data,</strong>"
   content: you can download the entire data set in Excel or CSV to pursue your own
     research. Exploring the individual record pages, you can view the full metadata
