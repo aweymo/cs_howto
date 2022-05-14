@@ -129,9 +129,14 @@ page_sections:
   content: industries and communities can be identified across multiple recordings.
     Note that you need to push Reset in order to clear subjects for new searches.
   media:
-    image: uploads/uploads/2022/subjects.gif
+    image: ''
     alt_text: ''
   slug: sub2
+- template: full-width-media-element
+  block: media-1
+  slug: sub1
+  image: uploads/uploads/2022/subjects.gif
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -144,8 +149,13 @@ page_sections:
     how the visualization loads.
   slug: tm2
   media:
-    image: uploads/uploads/2022/text-mining.gif
+    image: ''
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
