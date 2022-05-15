@@ -64,8 +64,9 @@ page_sections:
   headline: "<strong>Within Browse,</strong>"
   content: 'you can sort items chronologically or by title. You can engage with the
     community, industry and location tags to filter items and search for specific
-    terms. Note that any records that are titled simply by name indicate oral history
-    recordings, which can be engaged with in the Transcripts and Subjects sections. '
+    terms. Note that any records that are titled simply <strong>by name</strong> indicate
+    oral history recordings, which can be engaged with in the <strong>Transcripts</strong>
+    and <strong>Subjects</strong> sections. '
   slug: br2
   media:
     image: ''
