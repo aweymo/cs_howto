@@ -62,9 +62,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Within Browse,</strong>"
-  content: you can sort items chronologically or by title. You can engage with the
+  content: 'you can sort items chronologically or by title. You can engage with the
     community, industry and location tags to filter items and search for specific
-    terms.
+    terms. Note that any records that are titled simply by name indicate oral history
+    recordings, which can be engaged with in the Transcripts and Subjects sections. '
   slug: br2
   media:
     image: ''
