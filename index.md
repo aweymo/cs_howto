@@ -62,7 +62,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: intro
-  content: 'This project is both a historical research project and a pedagogical tool
+  content: This project is both a historical research project and a pedagogical tool
     that can be used by researchers to form new connections within the material and
     create original work. The exhibit was designed to provide researchers with multiple
     <strong>"ways in"</strong> to this material, depending on their learning preferences.<br><br>Researchers
@@ -80,7 +80,7 @@ page_sections:
     is represented in a single frame and communities and associated industries can
     be<strong> highlighted</strong> and <strong>filtered</strong> to create future
     research.<br><br>The following gifs will show you the different ways that you
-    can engage with this resource:'
+    can engage with this resource:<br><br><br><br>· Early draft of site framework
   media:
     image: uploads/uploads/2022/mapping-language-site-navigation-progress-snapshot.png
     alt_text: ''
