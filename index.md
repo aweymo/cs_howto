@@ -31,7 +31,20 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: uploads/uploads/2022/mapping-language-2022-capstone-project.png
-  content: '<br>This project is both a historical research project and a pedagogical
+  content: ''
+  headline: <strong><span class="light">How to Use this Guide</span></strong>
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: intro
+  content: <br>This project is both a historical research project and a pedagogical
     tool that can be used by researchers to form new connections within the material
     and create original work. The exhibit was designed to provide researchers with
     multiple <strong>"ways in"</strong> to this material, depending on their learning
@@ -49,38 +62,8 @@ page_sections:
     Visualization</strong>, where the entire collection is represented in a single
     frame and communities and associated industries can be<strong> highlighted</strong>
     and <strong>filtered</strong> to create future research.<br><br>The following
-    gifs will show you the different ways that you can engage with this resource:'
-  headline: <strong><span class="light">How to Use this Guide</span></strong>
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: intro
-  content: This project is both a historical research project and a pedagogical tool
-    that can be used by researchers to form new connections within the material and
-    create original work. The exhibit was designed to provide researchers with multiple
-    <strong>"ways in"</strong> to this material, depending on their learning preferences.<br><br>Researchers
-    can understand material <strong>geospatially</strong> through the <strong>Map</strong>,
-    view <strong>chronologically</strong> and by <strong>subject</strong> tag through
-    <strong>Browse</strong>, read every document <strong>visually</strong> or <strong>aurally</strong>
-    through text to speech software on the <strong>Data</strong> page. Researchers
-    can engage with oral history recordings as <strong>text</strong> or original <strong>audio</strong>
-    recordings through <strong>Transcripts</strong> or <strong>visually</strong>,
-    through the <strong>Subject</strong>s function.<br><br>Researchers can understand
-    a large amount of text information very quickly through <strong>moving images</strong>
-    in <strong>Text Mining</strong>, and gauge linguistic change <strong>over time</strong>.
-    Finally, researchers can engage with the material <strong>interactively</strong>
-    through the <strong>Network Visualization</strong>, where the entire collection
-    is represented in a single frame and communities and associated industries can
-    be<strong> highlighted</strong> and <strong>filtered</strong> to create future
-    research.<br><br>The following gifs will show you the different ways that you
-    can engage with this resource:<br><br><br><br>· Early draft of site framework
+    gifs will show you the different ways that you can engage with this resource:<br><br><br><br>·
+    Early draft of site framework
   media:
     image: uploads/uploads/2022/mapping-language-site-navigation-progress-snapshot.png
     alt_text: ''
