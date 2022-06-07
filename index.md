@@ -31,7 +31,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: uploads/uploads/2022/mapping-language-2022-capstone-project.png
-  content: ''
+  content: Read below<br>or watch this <a href="https://vimeo.com/715020343" title="video
+    guide">video guide</a>
   headline: <strong><span class="light">How to Use this Guide</span></strong>
   image:
     image: ''
